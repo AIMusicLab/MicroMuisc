@@ -2,13 +2,13 @@
 
 End-to-end automatic text-to-audio alignment for music.
 
-<a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai1.gif'  style="width: 600px;" > </a>
+<a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai1.gif'  style="width: 700px;" > </a>
+
+> The online experience, [See the site here](https://lamucal.ai)  
 
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
 An AI-powered multimodal project focused on music. Get chords, beats, lyrics, melody, and tabs for any song.
-
-> The online experience, [See the site here](https://lamucal.ai)  
 
 <img src='./image/model.png'  style="width: 950px;" >   
 
