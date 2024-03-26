@@ -1,5 +1,7 @@
 # MicroMuisc
 
+End-to-end automatic text-to-audio alignment for music.
+
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
 An AI-powered multimodal project focused on music. Get chords, beats, lyrics, melody, and tabs for any song.
