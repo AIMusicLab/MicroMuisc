@@ -1,6 +1,6 @@
 # MicroMuisc
 
-End-to-end automatic text-to-audio alignment for music.
+End-to-end automatic text-to-audio alignment for music, precise Lyric Synchronization Playback.
 
 <a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai1.gif'  style="width: 700px;" > </a>
 
