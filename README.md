@@ -1,4 +1,4 @@
-# MucalAI
+# MicroMuisc
 
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
